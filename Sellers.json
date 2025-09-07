@@ -10,7 +10,8 @@
         "address": "17 Beach Road, Kovalam, Thiruvananthapuram, Kerala 695527",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "Cash on Delivery",
-        "status": "Prepared"
+        "status": "Prepared",
+        "deliveredAt": "01 Sep 2025, 09:00 AM"
     },
     {
         "id": 2,
@@ -23,7 +24,8 @@
         "address": "42 Residency Lane, Kadappakada, Kollam, Kerala 691008",
         "deliveryTime": "within 15 minutes",
         "paymentMode": "UPI",
-        "status": "Order Placed"
+        "status": "Order Placed",
+        "01 Sep 2025, 09:30 AM"
     },
     {
         "id": 3,
@@ -36,7 +38,8 @@
         "address": "9 Gandhi Nagar, Adoor, Pathanamthitta, Kerala 691523",
         "deliveryTime": "30 minutes and above",
         "paymentMode": "Card",
-        "status": "Pending"
+        "status": "Pending",
+        "01 Sep 2025, 10:00 AM"
     },
     {
         "id": 4,
@@ -49,7 +52,8 @@
         "address": "5 Mullakkal Street, Alappuzha, Kerala 688011",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "UPI",
-        "status": "Delivered"
+        "status": "Delivered",
+        "01 Sep 2025, 10:30 AM"
     },
     {
         "id": 5,
@@ -62,7 +66,8 @@
         "address": "114 Baker Junction, Kottayam, Kerala 686001",
         "deliveryTime": "30 minutes and above",
         "paymentMode": "Cash on Delivery",
-        "status": "Cancelled"
+        "status": "Cancelled",
+        "01 Sep 2025, 11:00 AM"
     },
     {
         "id": 6,
@@ -75,7 +80,8 @@
         "address": "22 Munnar Road, Thodupuzha, Idukki, Kerala 685584",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "Card",
-        "status": "Out for Delivery"
+        "status": "Out for Delivery",
+        "01 Sep 2025, 11:30 AM"
     },
     {
         "id": 7,
@@ -88,7 +94,8 @@
         "address": "88 Broadway, Ernakulam, Kochi, Kerala 682031",
         "deliveryTime": "within 15 minutes",
         "paymentMode": "UPI",
-        "status": "Delivered"
+        "status": "Delivered",
+        "01 Sep 2025, 12:00 PM"
     },
     {
         "id": 8,
@@ -101,7 +108,8 @@
         "address": "3 Swaraj Round, Thrissur, Kerala 680001",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "Cash on Delivery",
-        "status": "Out for Delivery"
+        "status": "Out for Delivery",
+        "01 Sep 2025, 12:30 PM"
     },
     {
         "id": 9,
@@ -114,7 +122,8 @@
         "address": "21 Stadium Bypass, Palakkad, Kerala 678001",
         "deliveryTime": "within 15 minutes",
         "paymentMode": "UPI",
-        "status": "Pending"
+        "status": "Pending",
+        "01 Sep 2025, 01:00 PM"
     },
     {
         "id": 10,
@@ -127,7 +136,8 @@
         "address": "54 Manjeri Road, Malappuram, Kerala 676121",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "Card",
-        "status": "Prepared"
+        "status": "Prepared",
+        "01 Sep 2025, 01:00 PM"
     },
     {
         "id": 11,
@@ -140,7 +150,8 @@
         "address": "10 Beach Road, Kozhikode, Kerala 673032",
         "deliveryTime": "within 15 minutes",
         "paymentMode": "UPI",
-        "status": "Order Placed"
+        "status": "Order Placed",
+        "01 Sep 2025, 01:30 PM"
     },
     {
         "id": 12,
@@ -153,7 +164,8 @@
         "address": "7 Kalpetta Market, Wayanad, Kerala 673121",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "Cash on Delivery",
-        "status": "Delivered"
+        "status": "Delivered",
+        "01 Sep 2025, 02:00 PM"
     },
     {
         "id": 13,
@@ -166,7 +178,8 @@
         "address": "99 Fort Road, Kannur, Kerala 670001",
         "deliveryTime": "30 minutes and above",
         "paymentMode": "Card",
-        "status": "Out for Delivery"
+        "status": "Out for Delivery",
+        "deliveredAt": "01 Sep 2025, 02:30 PM"
     },
     {
         "id": 14,
@@ -179,7 +192,8 @@
         "address": "18 MG Road, Kasaragod, Kerala 671121",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "UPI",
-        "status": "Delivered"
+        "status": "Delivered",
+        "deliveredAt": "01 Sep 2025, 03:00 PM"
     },
     {
         "id": 15,
@@ -192,7 +206,8 @@
         "address": "3 Medical College Road, Thiruvananthapuram, Kerala 695011",
         "deliveryTime": "30 minutes and above",
         "paymentMode": "Cash on Delivery",
-        "status": "Prepared"
+        "status": "Prepared",
+        "deliveredAt": "01 Sep 2025, 03:30 PM"
     },
     {
         "id": 16,
@@ -205,7 +220,8 @@
         "address": "12 Chinnakada, Kollam, Kerala 691001",
         "deliveryTime": "within 15 minutes",
         "paymentMode": "Card",
-        "status": "Order Placed"
+        "status": "Order Placed",
+        "deliveredAt": "01 Sep 2025, 04:00 PM"
     },
     {
         "id": 17,
@@ -218,7 +234,8 @@
         "address": "66 Pandalam Junction, Pathanamthitta, Kerala 689501",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "UPI",
-        "status": "Out for Delivery"
+        "status": "Out for Delivery",
+        "deliveredAt": "01 Sep 2025, 04:30 PM"
     },
     {
         "id": 18,
@@ -231,7 +248,8 @@
         "address": "2 Finishing Point, Alappuzha, Kerala 688013",
         "deliveryTime": "within 15 minutes",
         "paymentMode": "Cash on Delivery",
-        "status": "Delivered"
+        "status": "Delivered",
+        "deliveredAt": "01 Sep 2025, 05:00 PM"
     },
     {
         "id": 19,
@@ -244,7 +262,8 @@
         "address": "77 Kanjikuzhi, Kottayam, Kerala 686004",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "UPI",
-        "status": "Pending"
+        "status": "Pending",
+        "deliveredAt": "01 Sep 2025, 05:30 PM"
     },
     {
         "id": 20,
@@ -257,7 +276,8 @@
         "address": "5 Blossom Park Road, Munnar, Idukki, Kerala 685612",
         "deliveryTime": "within 15 minutes",
         "paymentMode": "Card",
-        "status": "Out for Delivery"
+        "status": "Out for Delivery",
+        "deliveredAt": "01 Sep 2025, 06:00 PM"
     },
     {
         "id": 21,
@@ -270,7 +290,8 @@
         "address": "40 Marine Drive, Ernakulam, Kochi, Kerala 682018",
         "deliveryTime": "30 minutes and above",
         "paymentMode": "UPI",
-        "status": "Delivered"
+        "status": "Delivered",
+        "deliveredAt": "01 Sep 2025, 06:30 PM"
     },
     {
         "id": 22,
@@ -283,7 +304,8 @@
         "address": "6 Punkunnam, Thrissur, Kerala 680002",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "Cash on Delivery",
-        "status": "Order Placed"
+        "status": "Order Placed,
+        "deliveredAt": "01 Sep 2025, 07:00 PM"
     },
     {
         "id": 23,
@@ -296,7 +318,8 @@
         "address": "33 Olavakode, Palakkad, Kerala 678002",
         "deliveryTime": "within 15 minutes",
         "paymentMode": "Card",
-        "status": "Out for Delivery"
+        "status": "Out for Delivery",
+        "deliveredAt": "01 Sep 2025, 08:30 PM"
     },
     {
         "id": 24,
@@ -309,7 +332,8 @@
         "address": "81 Tirur Road, Malappuram, Kerala 676101",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "UPI",
-        "status": "Prepared"
+        "status": "Prepared",
+        "deliveredAt": "01 Sep 2025, 09:00 PM"
     },
     {
         "id": 25,
@@ -322,7 +346,8 @@
         "address": "12 SM Street, Kozhikode, Kerala 673001",
         "deliveryTime": "within 15 minutes",
         "paymentMode": "Cash on Delivery",
-        "status": "Delivered"
+        "status": "Delivered",
+        "deliveredAt": "01 Sep 2025, 09:30 PM"
     },
     {
         "id": 26,
@@ -335,7 +360,8 @@
         "address": "4 Sulthan Bathery, Wayanad, Kerala 673592",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "Card",
-        "status": "Order Placed"
+        "status": "Order Placed",
+        "deliveredAt": "01 Sep 2025, 10:00 PM"
     },
     {
         "id": 27,
@@ -348,7 +374,8 @@
         "address": "20 Payyambalam Beach Road, Kannur, Kerala 670001",
         "deliveryTime": "30 minutes and above",
         "paymentMode": "UPI",
-        "status": "Pending"
+        "status": "Pending",
+        "deliveredAt": "01 Sep 2025, 10:30 PM"
     },
     {
         "id": 28,
@@ -361,7 +388,8 @@
         "address": "55 Kumble Junction, Kasaragod, Kerala 671321",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "Card",
-        "status": "Out for Delivery"
+        "status": "Out for Delivery",
+        "deliveredAt": "01 Sep 2025, 11:00 PM"
     },
     {
         "id": 29,
@@ -374,7 +402,8 @@
         "address": "14 Vellayambalam, Thiruvananthapuram, Kerala 695010",
         "deliveryTime": "within 15 minutes",
         "paymentMode": "Cash on Delivery",
-        "status": "Delivered"
+        "status": "Delivered",
+        "deliveredAt": "01 Sep 2025, 11:30 PM"
     },
     {
         "id": 30,
@@ -387,6 +416,7 @@
         "address": "27 Asramam, Kollam, Kerala 691002",
         "deliveryTime": "15-30 minutes",
         "paymentMode": "UPI",
-        "status": "Order Placed"
+        "status": "Order Placed",
+        "deliveredAt": "01 Sep 2025, 12:00 AM"
     }
 ]
